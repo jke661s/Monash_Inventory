@@ -15,6 +15,17 @@
 		C7D9CECE1F3E695000AD6D2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7D9CECC1F3E695000AD6D2D /* LaunchScreen.storyboard */; };
 		C7D9CED91F3E695000AD6D2D /* _140week3_inventory_coredataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CED81F3E695000AD6D2D /* _140week3_inventory_coredataTests.swift */; };
 		C7D9CEE41F3E695000AD6D2D /* _140week3_inventory_coredataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CEE31F3E695000AD6D2D /* _140week3_inventory_coredataUITests.swift */; };
+		C7D9CEF21F3E6DD000AD6D2D /* ProductListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CEF11F3E6DD000AD6D2D /* ProductListTableViewController.swift */; };
+		C7D9CEF41F3E6E2000AD6D2D /* AddProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CEF31F3E6E2000AD6D2D /* AddProductViewController.swift */; };
+		C7D9CEF61F3E6E5600AD6D2D /* ProductDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CEF51F3E6E5600AD6D2D /* ProductDetailViewController.swift */; };
+		C7D9CEFA1F3E6EC100AD6D2D /* ProductListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CEF91F3E6EC100AD6D2D /* ProductListTableViewCell.swift */; };
+		C7D9CEFF1F3EE1C400AD6D2D /* AddStoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CEFE1F3EE1C400AD6D2D /* AddStoreViewController.swift */; };
+		C7D9CF011F3EE1F100AD6D2D /* StoreListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CF001F3EE1F100AD6D2D /* StoreListTableViewController.swift */; };
+		C7D9CF051F3EE25500AD6D2D /* InStoreTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CF041F3EE25500AD6D2D /* InStoreTableViewController.swift */; };
+		C7D9CF091F3EF31000AD6D2D /* StoreListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CF081F3EF31000AD6D2D /* StoreListTableViewCell.swift */; };
+		C7D9CF0B1F3EF8F900AD6D2D /* AddToStoreTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CF0A1F3EF8F900AD6D2D /* AddToStoreTableViewController.swift */; };
+		C7D9CF0D1F3EFC8C00AD6D2D /* InStoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CF0C1F3EFC8C00AD6D2D /* InStoreTableViewCell.swift */; };
+		C7D9CF0F1F3EFC9F00AD6D2D /* AddToStoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D9CF0E1F3EFC9F00AD6D2D /* AddToStoreTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,17 @@
 		C7D9CEDF1F3E695000AD6D2D /* 5140week3_inventory_coredataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 5140week3_inventory_coredataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7D9CEE31F3E695000AD6D2D /* _140week3_inventory_coredataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _140week3_inventory_coredataUITests.swift; sourceTree = "<group>"; };
 		C7D9CEE51F3E695000AD6D2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7D9CEF11F3E6DD000AD6D2D /* ProductListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductListTableViewController.swift; sourceTree = "<group>"; };
+		C7D9CEF31F3E6E2000AD6D2D /* AddProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddProductViewController.swift; sourceTree = "<group>"; };
+		C7D9CEF51F3E6E5600AD6D2D /* ProductDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductDetailViewController.swift; sourceTree = "<group>"; };
+		C7D9CEF91F3E6EC100AD6D2D /* ProductListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductListTableViewCell.swift; sourceTree = "<group>"; };
+		C7D9CEFE1F3EE1C400AD6D2D /* AddStoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddStoreViewController.swift; sourceTree = "<group>"; };
+		C7D9CF001F3EE1F100AD6D2D /* StoreListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreListTableViewController.swift; sourceTree = "<group>"; };
+		C7D9CF041F3EE25500AD6D2D /* InStoreTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InStoreTableViewController.swift; sourceTree = "<group>"; };
+		C7D9CF081F3EF31000AD6D2D /* StoreListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreListTableViewCell.swift; sourceTree = "<group>"; };
+		C7D9CF0A1F3EF8F900AD6D2D /* AddToStoreTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddToStoreTableViewController.swift; sourceTree = "<group>"; };
+		C7D9CF0C1F3EFC8C00AD6D2D /* InStoreTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InStoreTableViewCell.swift; sourceTree = "<group>"; };
+		C7D9CF0E1F3EFC9F00AD6D2D /* AddToStoreTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddToStoreTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +121,8 @@
 		C7D9CEBF1F3E695000AD6D2D /* 5140week3_inventory_coredata */ = {
 			isa = PBXGroup;
 			children = (
+				C7D9CEFB1F3EE15D00AD6D2D /* StoreSection */,
+				C7D9CEF71F3E6E6500AD6D2D /* ProductSection */,
 				C7D9CEC01F3E695000AD6D2D /* AppDelegate.swift */,
 				C7D9CEC21F3E695000AD6D2D /* ViewController.swift */,
 				C7D9CEC41F3E695000AD6D2D /* Main.storyboard */,
@@ -126,6 +150,31 @@
 				C7D9CEE51F3E695000AD6D2D /* Info.plist */,
 			);
 			path = 5140week3_inventory_coredataUITests;
+			sourceTree = "<group>";
+		};
+		C7D9CEF71F3E6E6500AD6D2D /* ProductSection */ = {
+			isa = PBXGroup;
+			children = (
+				C7D9CEF11F3E6DD000AD6D2D /* ProductListTableViewController.swift */,
+				C7D9CEF51F3E6E5600AD6D2D /* ProductDetailViewController.swift */,
+				C7D9CEF31F3E6E2000AD6D2D /* AddProductViewController.swift */,
+				C7D9CEF91F3E6EC100AD6D2D /* ProductListTableViewCell.swift */,
+			);
+			name = ProductSection;
+			sourceTree = "<group>";
+		};
+		C7D9CEFB1F3EE15D00AD6D2D /* StoreSection */ = {
+			isa = PBXGroup;
+			children = (
+				C7D9CEFE1F3EE1C400AD6D2D /* AddStoreViewController.swift */,
+				C7D9CF001F3EE1F100AD6D2D /* StoreListTableViewController.swift */,
+				C7D9CF041F3EE25500AD6D2D /* InStoreTableViewController.swift */,
+				C7D9CF081F3EF31000AD6D2D /* StoreListTableViewCell.swift */,
+				C7D9CF0A1F3EF8F900AD6D2D /* AddToStoreTableViewController.swift */,
+				C7D9CF0C1F3EFC8C00AD6D2D /* InStoreTableViewCell.swift */,
+				C7D9CF0E1F3EFC9F00AD6D2D /* AddToStoreTableViewCell.swift */,
+			);
+			name = StoreSection;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,9 +311,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7D9CF0F1F3EFC9F00AD6D2D /* AddToStoreTableViewCell.swift in Sources */,
 				C7D9CEC91F3E695000AD6D2D /* _140week3_inventory_coredata.xcdatamodeld in Sources */,
+				C7D9CF011F3EE1F100AD6D2D /* StoreListTableViewController.swift in Sources */,
+				C7D9CF091F3EF31000AD6D2D /* StoreListTableViewCell.swift in Sources */,
+				C7D9CEFA1F3E6EC100AD6D2D /* ProductListTableViewCell.swift in Sources */,
 				C7D9CEC31F3E695000AD6D2D /* ViewController.swift in Sources */,
+				C7D9CF0D1F3EFC8C00AD6D2D /* InStoreTableViewCell.swift in Sources */,
+				C7D9CEF41F3E6E2000AD6D2D /* AddProductViewController.swift in Sources */,
 				C7D9CEC11F3E695000AD6D2D /* AppDelegate.swift in Sources */,
+				C7D9CEFF1F3EE1C400AD6D2D /* AddStoreViewController.swift in Sources */,
+				C7D9CEF21F3E6DD000AD6D2D /* ProductListTableViewController.swift in Sources */,
+				C7D9CF051F3EE25500AD6D2D /* InStoreTableViewController.swift in Sources */,
+				C7D9CF0B1F3EF8F900AD6D2D /* AddToStoreTableViewController.swift in Sources */,
+				C7D9CEF61F3E6E5600AD6D2D /* ProductDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,6 +569,7 @@
 				C7D9CEEA1F3E695000AD6D2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7D9CEEB1F3E695000AD6D2D /* Build configuration list for PBXNativeTarget "5140week3_inventory_coredataTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +578,7 @@
 				C7D9CEED1F3E695000AD6D2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7D9CEEE1F3E695000AD6D2D /* Build configuration list for PBXNativeTarget "5140week3_inventory_coredataUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +587,7 @@
 				C7D9CEF01F3E695000AD6D2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
